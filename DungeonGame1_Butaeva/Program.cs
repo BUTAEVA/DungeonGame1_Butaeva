@@ -10,7 +10,7 @@ namespace DungeonGame1_Butaeva
     {
         static void Main(string[] args)
         {
-
+             
         }
     }
 }
